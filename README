@@ -1,0 +1,12 @@
+//============================================================================
+// Name        : CocaColaMachine.cpp
+// Author      : Bulent Kocaman
+// Version     : 1.0
+// Copyright   : 2016
+// Description : Coca-Cola Machine v1.0 (Home Work)
+//============================================================================
+
+IDE : Eclipse
+Platform: Linux (Ubuntu 64)
+Compile:  g++ -o CocaColaMachine CocaColaMachine.cpp
+Run : ./CocaColaMachine 
